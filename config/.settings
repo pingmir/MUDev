@@ -1,0 +1,28 @@
+{
+    "projectName": "MUDev",
+    "username": "mudev@pingmir.com",
+    "id": "07fceb50-3b14-11e7-8e3c-9781df8dc256",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://mudev-dev-ed.my.salesforce.com",
+    "workspace": "/Users/Mir/Desktop/Desktop/Workspace_MavensMate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AssignmentRules",
+        "AuraDefinitionBundle",
+        "CustomApplication",
+        "CustomObject",
+        "CustomTab",
+        "Document",
+        "EmailTemplate",
+        "Layout",
+        "Queue",
+        "Settings",
+        "StaticResource",
+        "Workflow"
+    ]
+}
