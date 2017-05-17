@@ -1,0 +1,8 @@
+<aura:component description="Provides a Page Header for the Run Tracks App" implements="flexipage:availableForAllPageTypes">
+    <aura:attribute name="title" type="String" access="global" default="Run Tracker" description="Optional Title can be replaced in the Page Header" />
+    <div class="slds">
+		<div class="slds-page-header">
+            <p class="slds-page-header__title" title="{!v.title}">{!v.title}</p>
+        </div>
+    </div>
+</aura:component>

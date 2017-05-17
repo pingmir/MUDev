@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ListRunsApexController</members>
+        <members>NewRunApexController</members>
+        <members>RunApexController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AddToRunList</members>
+        <members>ListRuns</members>
+        <members>NewRun</members>
+        <members>PageHeader</members>
+        <members>Run</members>
+        <members>RunTracks</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Run__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Run_Tracker</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Run__c-Run Layout</members>
+        <name>Layout</name>
+    </types>
     <version>36.0</version>
 </Package>

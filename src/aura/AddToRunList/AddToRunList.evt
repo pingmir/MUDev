@@ -1,0 +1,4 @@
+<aura:event type="APPLICATION" description="Event template" >
+    <!-- An Attribute that will be passed along the payload -->
+    <aura:attribute name="run" type="Run__c" />
+</aura:event>
