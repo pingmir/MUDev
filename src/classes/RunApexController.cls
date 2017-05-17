@@ -1,4 +1,4 @@
-public class RunApexController {
+public with sharing class RunApexController {
 @AuraEnabled
     public static Run__c updateRunDB(Run__c run) {
   

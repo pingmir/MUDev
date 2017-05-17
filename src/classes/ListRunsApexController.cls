@@ -1,4 +1,4 @@
-public class ListRunsApexController {
+public with sharing class ListRunsApexController {
 @AuraEnabled
     public static List<Run__c> getRunsDB() {
        

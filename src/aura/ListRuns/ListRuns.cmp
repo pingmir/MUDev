@@ -2,7 +2,7 @@
 	<aura:attribute name="runs" type="Run__c[]"  />
     
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
-    <!-- key here is that the handler has no name attribute specified when dealing with application event 
+    <!-- that the handler has no name attribute specified when dealing with application event 
 	specifying default namespace c if you dont have one
 	-->
     <aura:handler event="c:AddToRunList" action="{!c.handleAddToRuns}" />

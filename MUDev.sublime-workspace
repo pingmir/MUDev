@@ -1,1 +1,350 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 383.0,
+		"last_filter": "mave",
+		"selected_items":
+		[
+			[
+				"mave",
+				"MavensMate: Open Project"
+			],
+			[
+				"ma",
+				"MavensMate: Open Salesforce Org"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Settings - Default"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"get",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"objec",
+				"Set Syntax: Objective-C"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 383.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/aura",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/aura/AddToRunList",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/aura/ListRuns",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/aura/NewRun",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/aura/Run",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/aura/RunTracks",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/classes"
+	],
+	"file_history":
+	[
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/aura/AddToRunList/AddToRunList.evt",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/aura/ListRuns/ListRuns.cmp",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/classes/ListRunsApexController.cls",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/classes/NewRunApexController.cls",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/classes/RunApexController.cls",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/classes/ListRacesApexController.cls",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/classes/ListRacesController.cls",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/classes/NewRaceApexController.cls",
+		"/Users/Mir/Desktop/Desktop/Workspace_MavensMate/MUDev/src/classes/RaceApexController.cls",
+		"/Users/Mir/Desktop/Desktop/MEAN/Pingmir/index.html",
+		"/Users/Mir/Desktop/Desktop/GitRepos/DEV01/2_Dev01",
+		"/Users/Mir/Desktop/Desktop/GitRepos/DEV01/3_Dev01",
+		"/Users/Mir/Desktop/Desktop/GitRepos/DEV01/1_Dev01",
+		"/Users/Mir/Desktop/Desktop/GitRepos/DEV01/\"Master.txt\"",
+		"/Users/Mir/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/Mir/Library/Application Support/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/Users/Mir/Desktop/Desktop/MEAN/Pingmir/fixed-both-sidebar.html",
+		"/Users/Mir/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/Mir/Desktop/Desktop/Salesforce/PDF/Books/9781786468086_Code/B05701_04_code/pages/SearchAccounts.page",
+		"/Users/Mir/Desktop/Desktop/Salesforce/PDF/Books/9781786468086_Code/B05701_04_code/pages/SelectContacts.page",
+		"/Users/Mir/Desktop/TEST",
+		"/Users/Mir/Desktop/Desktop/Salesforce/PDF/Books/9781786468086_Code/B05701_04_code/classes/SearchAccountsController.cls",
+		"/Users/Mir/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Mir/Desktop/Desktop/MEAN/FoundRecently/package.json",
+		"/Users/Mir/Desktop/Desktop/React_Native/iOS/iosToDo/PluralTodo.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/Exponent/todo/TaskForm.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/iOS/iosToDo/TaskRow/Component.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/iOS/iosToDo/index.android.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/iOS/iosToDo/index.ios.js",
+		"/Users/Mir/Desktop/untitled folder/package.json",
+		"/Users/Mir/Desktop/Desktop/React_Native/iOS/iosToDo/exp.json",
+		"/Users/Mir/Desktop/Desktop/React_Native/iOS/iosToDo/package.json",
+		"/Users/Mir/Desktop/Desktop/React_Native/iOS/iosToDo/PluralTodo/package.json",
+		"/Users/Mir/Desktop/Desktop/React_Native/Plural/build-react-native-exponent-redux-apps/4-build-react-native-exponent-redux-apps-m4-exercise-files/After/package.json",
+		"/Users/Mir/Desktop/Desktop/React_Native/iOS/iosToDo/node_modules/react-native/Libraries/BatchedBridge/MessageQueue.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/todo/TaskList.js",
+		"/Users/Mir/Desktop/Desktop/Salesforce/How IT Can Use the Platform",
+		"/Users/Mir/Desktop/TaskList.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/Plural/build-react-native-exponent-redux-apps/2-build-react-native-exponent-redux-apps-m2-exercise-files/After/TaskList.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/todo/main.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/todo/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/require.js",
+		"/Users/Mir/Desktop/Desktop/React_Native/todo/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/prelude_dev.js",
+		"/Users/Mir/Desktop/Desktop/Kindle_Clippings/Clips_Spiritual Discourses.txt",
+		"/Users/Mir/Desktop/Desktop/Kindle_Clippings/Clips_The Most Important Thing",
+		"/Users/Mir/Desktop/Desktop/Kindle_Clippings/Clips_Antifragile",
+		"/Users/Mir/Desktop/Desktop/Kindle_Clippings/Growth Hacker Marketing",
+		"/Users/Mir/Desktop/Desktop/Kindle_Clippings/Free The Animal",
+		"/Users/Mir/Desktop/Desktop/1Line/1",
+		"/Users/Mir/Desktop/Desktop/VM7Shared/Tableau/Tableau_Notes",
+		"/Users/Mir/Desktop/Desktop/IAWrite/MarkDown_Notes/Backup_1.m",
+		"/Users/Mir/Desktop/Desktop/IAWrite/MarkDown_Notes/Bakup_CatView_m.m",
+		"/Users/Mir/Library/Developer/CoreSimulator/Devices/84C892C2-AD7C-40DA-A2C6-C1FC7BD3E8DD/data/Containers/Data/Application/E293C933-6F68-49C3-BFBA-FEB733BC8D84/Documents/MonIt.sqlite-shm",
+		"/Users/Mir/Desktop/Desktop/IAWrite/Logs_Formatted.html",
+		"/Users/Mir/Desktop/Desktop/IAWrite/Logs_Formatted.read",
+		"/Users/Mir/Desktop/Desktop/IAWrite/All Notes HTML Export/Logs.html",
+		"/Users/Mir/Desktop/Desktop/iOS/Random/XYPieChart-master/README.textile",
+		"/Users/Mir/Desktop/Desktop/WIP/Protein Tracker/Protein Tracker/MainViewController.m",
+		"/Users/Mir/Desktop/Desktop/WIP/Protein Tracker/Protein Tracker/MainViewController.h",
+		"/Users/Mir/Desktop/Desktop/WIP/Protein Tracker/Protein Tracker/AppDelegate.m"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"02",
+			"small",
+			"vendor",
+			" >",
+			"sept",
+			"lab",
+			"my",
+			"contact",
+			"stylesheet",
+			"\">\n",
+			"    ",
+			"\n<",
+			"\n",
+			"</ul>",
+			"</li>",
+			"<li>",
+			"<ul>",
+			"</p>",
+			"<p>",
+			"<p>\n",
+			"\n",
+			"*   ",
+			"\n",
+			"</p>",
+			"<p>",
+			"proteing\t\t",
+			"proteing",
+			"prote"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"- ",
+			"",
+			"- ",
+			"",
+			"<br>"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MUDev.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
