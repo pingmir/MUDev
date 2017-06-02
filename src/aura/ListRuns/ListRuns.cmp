@@ -2,15 +2,12 @@
 	<aura:attribute name="runs" type="Run__c[]"  />
     
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
-    <!-- that the handler has no name attribute specified when dealing with application event 
-	specifying default namespace c if you dont have one
-	-->
-    <aura:handler event="c:AddToRunList" action="{!c.handleAddToRuns}" />
+   <aura:handler event="c:AddToRunList" action="{!c.handleAddToRuns}" />
     <div class="slds">
         <div class="slds-m-around--small slds-p-top--large">
             <div class="slds-card">
                 <aura:iteration items="{!v.runs}" var="run">
-                    <c:Run run="{!run}" /><!-- using the attribute in the run.cmp -->
+                    <c:Run run="{!run}" />
                 </aura:iteration>
             </div>
         </div>
